@@ -1,0 +1,1 @@
+if ((_v1 ~= nil and _v2 ~= nil) and (indicator_1.MACD:tick(_v1) > indicator_1.SIGNAL:tick(_v2) or indicator_1.SIGNAL:tick(_v2) < indicator_1.MACD:tick(_v1))) then

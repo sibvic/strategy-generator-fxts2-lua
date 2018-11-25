@@ -1,0 +1,1 @@
+    strategy.parameters:addInteger("os_level", "Oversold level", "", 80);

@@ -1,0 +1,7 @@
+Lua/bin
+Lua/obj
+Lua.Tests/bin
+Lua.Tests/obj
+Lua.Console/bin
+Lua.Console/obj
+.vs

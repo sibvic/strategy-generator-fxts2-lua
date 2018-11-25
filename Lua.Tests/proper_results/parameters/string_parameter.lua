@@ -1,0 +1,1 @@
+strategy.parameters:addString("version", "Version 22.08.2017", "d", "test");

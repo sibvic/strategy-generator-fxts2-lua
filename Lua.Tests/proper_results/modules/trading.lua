@@ -1,0 +1,1 @@
+trading.Name = "Trading";

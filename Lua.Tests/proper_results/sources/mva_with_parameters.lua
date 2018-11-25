@@ -1,0 +1,1 @@
+mva = core.indicators:create("MVA", trading_logic.MainSource, 10);

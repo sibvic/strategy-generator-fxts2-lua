@@ -1,0 +1,1 @@
+if ((_v1 ~= nil) and (stoch.K:tick(_v1) > instance.parameters.os_level and instance.parameters.allow_buy == true)) then

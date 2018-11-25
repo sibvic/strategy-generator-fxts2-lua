@@ -1,0 +1,1 @@
+strategy.parameters:addBoolean("allow_buy", "Allow buy", "", true);

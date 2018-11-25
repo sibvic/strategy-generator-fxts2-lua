@@ -1,0 +1,1 @@
+if ((_v1 ~= nil) and (indicator_1.Median:size() >= 2 and core.crossesOverOrTouch(indicator_1.Median, 1, _v1))) then

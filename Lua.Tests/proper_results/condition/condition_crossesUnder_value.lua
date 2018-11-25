@@ -1,0 +1,1 @@
+if ((_v1 ~= nil) and (macd.MACD:size() >= 2 and core.crossesUnder(macd.MACD, 1.0, _v1))) then

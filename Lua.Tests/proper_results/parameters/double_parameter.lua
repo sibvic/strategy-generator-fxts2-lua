@@ -1,0 +1,1 @@
+strategy.parameters:addDouble("os_level", "Oversold level", "", 80.0);

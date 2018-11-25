@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFrameworks>net461</TargetFrameworks>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Model\Model\Model.csproj" />
+    <ProjectReference Include="..\Lua\Lua.csproj" />
+    <ProjectReference Include="..\Model\ModelParser\ModelParser.csproj" />
+  </ItemGroup>
+
+</Project>

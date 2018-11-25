@@ -1,0 +1,1 @@
+if ((_v1 ~= nil and _v2 ~= nil) and macd.SIGNAL:tick(_v1) ~= macd.MACD:tick(_v2)) then
