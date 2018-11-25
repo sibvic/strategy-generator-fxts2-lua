@@ -5,3 +5,7 @@ Lua.Tests/obj
 Lua.Console/bin
 Lua.Console/obj
 .vs
+/Model/ModelParser.Tests/bin
+/Model/ModelParser.Tests/obj
+/Model/ModelParser/bin
+/Model/ModelParser/obj
